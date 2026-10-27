@@ -57,7 +57,3 @@ A documented Ubuntu Server environment focused on remote administration, firewal
 **[Java Recursive Descent Parser](https://github.com/gm24680/JavaParser)**
 
 An academic Java project implementing recursive descent parsing techniques.
-
-## Outside of Tech
-
-I enjoy chess, basketball, volleyball, and creating YouTube content.
