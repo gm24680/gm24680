@@ -29,7 +29,7 @@ An academic Java project implementing recursive descent parsing techniques.
 
 ## Outside of Tech
 
-I enjoy chess, basketball, volleyball.
+I enjoy chess, basketball, volleyball, and reading!
 
 I'm a Computer Science student at the University of Houston–Clear Lake, currently exploring cloud engineering, Linux system administration, and infrastructure automation.
 
