@@ -23,7 +23,7 @@ I enjoy building and troubleshooting systems, understanding how networks communi
 
 A documented Ubuntu Server environment focused on remote administration, firewall configuration, web server deployment, and troubleshooting.
 
-**[Ai Video Automation Pipeline]([https://github.com/gm24680/JavaParser](https://github.com/gm24680/ai-video-automation-pipeline))**
+**[Ai Video Automation Pipeline][https://github.com/gm24680/JavaParser](https://github.com/gm24680/ai-video-automation-pipeline)**
 
 An academic Java project implementing recursive descent parsing techniques.
 
