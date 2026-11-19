@@ -25,7 +25,7 @@ A documented Ubuntu Server environment focused on remote administration, firewal
 
 **[Ai Video Automation Pipeline](https://github.com/gm24680/ai-video-automation-pipeline)**
 
-An academic Java project implementing recursive descent parsing techniques.
+A documented self-hosted AI video automation platform running on Ubuntu Linux, integrating Python, FFmpeg, Whisper, Ollama, SQLite, and systemd.
 
 ## Outside of Tech
 
