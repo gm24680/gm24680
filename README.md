@@ -5,7 +5,7 @@ I'm a Computer Science student at the University of Houston–Clear Lake, curren
 I enjoy building and troubleshooting systems, understanding how networks communicate, and learning how infrastructure supports real-world applications.
 
 ## What I'm Currently Working On
-
+- **Doing good on all of my finals!!**
 - **Linux Server Homelab:** Deployed Ubuntu Server, configured SSH and UFW firewall rules, and hosted an Nginx web server.
 - **Infrastructure Automation:** Learning Bash scripting to automate server monitoring and administrative tasks.
 - **AI Automation Pipline:** Learning how to design, integrate, and operate multiple software components as one functioning system. 
